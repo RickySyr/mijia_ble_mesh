@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "lib_51_MBTLE_PB_ADV_EE.a"
+)

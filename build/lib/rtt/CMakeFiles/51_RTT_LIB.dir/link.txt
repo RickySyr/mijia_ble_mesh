@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar cq lib_51_RTT_LIB.a  CMakeFiles/51_RTT_LIB.dir/src/SEGGER_RTT.c.obj CMakeFiles/51_RTT_LIB.dir/src/SEGGER_RTT_printf.c.obj CMakeFiles/51_RTT_LIB.dir/__/__/toolchain/gcc/gcc_startup_nrf51.S.obj CMakeFiles/51_RTT_LIB.dir/__/__/toolchain/system_nrf51.c.obj
+/usr/bin/arm-none-eabi-ranlib lib_51_RTT_LIB.a
