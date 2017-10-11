@@ -18,4 +18,6 @@ if(NOT BUILD_HOST)
 
     add_subdirectory(dfu)
     add_subdirectory(light_control)
+	
+	add_subdirectory(mijia_device)
 endif()

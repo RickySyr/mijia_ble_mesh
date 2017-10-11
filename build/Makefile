@@ -569,6 +569,32 @@ f_51_light_control_server/fast:
 	$(MAKE) -f examples/light_control/server/CMakeFiles/f_51_light_control_server.dir/build.make examples/light_control/server/CMakeFiles/f_51_light_control_server.dir/build
 .PHONY : f_51_light_control_server/fast
 
+#=============================================================================
+# Target rules for targets named 51_mijia_device
+
+# Build rule for target.
+51_mijia_device: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 51_mijia_device
+.PHONY : 51_mijia_device
+
+# fast build rule for target.
+51_mijia_device/fast:
+	$(MAKE) -f examples/mijia_device/CMakeFiles/51_mijia_device.dir/build.make examples/mijia_device/CMakeFiles/51_mijia_device.dir/build
+.PHONY : 51_mijia_device/fast
+
+#=============================================================================
+# Target rules for targets named f_51_mijia_device
+
+# Build rule for target.
+f_51_mijia_device: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 f_51_mijia_device
+.PHONY : f_51_mijia_device
+
+# fast build rule for target.
+f_51_mijia_device/fast:
+	$(MAKE) -f examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/build.make examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/build
+.PHONY : f_51_mijia_device/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -613,6 +639,8 @@ help:
 	@echo "... 51_light_control_client"
 	@echo "... f_51_light_control_server"
 	@echo "... 51_light_control_server"
+	@echo "... 51_mijia_device"
+	@echo "... f_51_mijia_device"
 .PHONY : help
 
 

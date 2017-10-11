@@ -36,6 +36,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/examples/pb_remote_client/cmake_install.cmake")
   include("/media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/examples/dfu/cmake_install.cmake")
   include("/media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/examples/light_control/cmake_install.cmake")
+  include("/media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/examples/mijia_device/cmake_install.cmake")
 
 endif()
 

@@ -1,3 +1,4 @@
+/media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/examples/mijia_device/CMakeFiles/51_mijia_device.dir
 /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir
 /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/mesh/CMakeFiles/MBTLE_CORE.dir
 /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir
@@ -27,6 +28,7 @@
 /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/examples/serial/CMakeFiles/51_serial.dir
 /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/mesh/CMakeFiles/MBTLE_PB_ADV_ER.dir
 /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles/ALL_LINT.dir
+/media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/examples/mijia_device/CMakeFiles/f_51_mijia_device.dir
 /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/doc/CMakeFiles/doc_online.dir
 /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/examples/beaconing/CMakeFiles/f_51_beaconing.dir
 /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/examples/serial/CMakeFiles/f_51_serial.dir

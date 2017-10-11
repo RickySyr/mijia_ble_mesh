@@ -28,6 +28,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../examples/light_control/CMakeLists.txt"
   "../examples/light_control/client/CMakeLists.txt"
   "../examples/light_control/server/CMakeLists.txt"
+  "../examples/mijia_device/CMakeLists.txt"
   "../examples/models/CMakeLists.txt"
   "../examples/models/simple_on_off/CMakeLists.txt"
   "../examples/pb_remote_client/CMakeLists.txt"
@@ -41,25 +42,14 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../mesh/mbtle_src_definition.cmake"
   "../tools/CMakeLists.txt"
   "../tools/serial_doc/CMakeLists.txt"
-  "/usr/share/cmake-3.2/Modules/CMakeASMCompiler.cmake.in"
   "/usr/share/cmake-3.2/Modules/CMakeASMInformation.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeCCompiler.cmake.in"
   "/usr/share/cmake-3.2/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.2/Modules/CMakeCommonLanguageInclude.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeDetermineASMCompiler.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeDetermineCCompiler.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeDetermineCompiler.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeDetermineSystem.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeFindBinUtils.cmake"
   "/usr/share/cmake-3.2/Modules/CMakeForceCompiler.cmake"
   "/usr/share/cmake-3.2/Modules/CMakeGenericSystem.cmake"
   "/usr/share/cmake-3.2/Modules/CMakeParseArguments.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeSystem.cmake.in"
   "/usr/share/cmake-3.2/Modules/CMakeSystemSpecificInformation.cmake"
   "/usr/share/cmake-3.2/Modules/CMakeSystemSpecificInitialize.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeTestASMCompiler.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeTestCCompiler.cmake"
-  "/usr/share/cmake-3.2/Modules/CMakeUnixFindMake.cmake"
   "/usr/share/cmake-3.2/Modules/Compiler/GNU-ASM.cmake"
   "/usr/share/cmake-3.2/Modules/Compiler/GNU-C.cmake"
   "/usr/share/cmake-3.2/Modules/Compiler/GNU.cmake"
@@ -79,9 +69,6 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "doc/ble_mesh_version.txt"
-  "CMakeFiles/3.2.2/CMakeSystem.cmake"
-  "CMakeFiles/3.2.2/CMakeCCompiler.cmake"
-  "CMakeFiles/3.2.2/CMakeASMCompiler.cmake"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "doc/CMakeFiles/CMakeDirectoryInformation.cmake"
   "mesh/CMakeFiles/CMakeDirectoryInformation.cmake"
@@ -101,6 +88,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "examples/light_control/CMakeFiles/CMakeDirectoryInformation.cmake"
   "examples/light_control/client/CMakeFiles/CMakeDirectoryInformation.cmake"
   "examples/light_control/server/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "examples/mijia_device/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -141,4 +129,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "examples/light_control/client/CMakeFiles/51_light_control_client.dir/DependInfo.cmake"
   "examples/light_control/server/CMakeFiles/f_51_light_control_server.dir/DependInfo.cmake"
   "examples/light_control/server/CMakeFiles/51_light_control_server.dir/DependInfo.cmake"
+  "examples/mijia_device/CMakeFiles/51_mijia_device.dir/DependInfo.cmake"
+  "examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/DependInfo.cmake"
   )

@@ -67,7 +67,7 @@ CMakeFiles/ALL_LINT.dir/all: mesh/CMakeFiles/51_MBTLE_CORE_lint.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ALL_LINT.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ALL_LINT.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : CMakeFiles/ALL_LINT.dir/rule
@@ -108,7 +108,7 @@ doc/preinstall:
 doc/CMakeFiles/doc.dir/all: tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/all
 	$(MAKE) -f doc/CMakeFiles/doc.dir/build.make doc/CMakeFiles/doc.dir/depend
 	$(MAKE) -f doc/CMakeFiles/doc.dir/build.make doc/CMakeFiles/doc.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  98
 	@echo "Built target doc"
 .PHONY : doc/CMakeFiles/doc.dir/all
 
@@ -139,13 +139,13 @@ clean: doc/CMakeFiles/doc.dir/clean
 doc/CMakeFiles/doc_online.dir/all: tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/all
 	$(MAKE) -f doc/CMakeFiles/doc_online.dir/build.make doc/CMakeFiles/doc_online.dir/depend
 	$(MAKE) -f doc/CMakeFiles/doc_online.dir/build.make doc/CMakeFiles/doc_online.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  98
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 
 	@echo "Built target doc_online"
 .PHONY : doc/CMakeFiles/doc_online.dir/all
 
 # Build rule for subdir invocation for target.
 doc/CMakeFiles/doc_online.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 doc/CMakeFiles/doc_online.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : doc/CMakeFiles/doc_online.dir/rule
@@ -198,7 +198,7 @@ mesh/preinstall:
 mesh/CMakeFiles/51_MBTLE_CORE.dir/all:
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_CORE.dir/build.make mesh/CMakeFiles/51_MBTLE_CORE.dir/depend
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_CORE.dir/build.make mesh/CMakeFiles/51_MBTLE_CORE.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
 	@echo "Built target 51_MBTLE_CORE"
 .PHONY : mesh/CMakeFiles/51_MBTLE_CORE.dir/all
 
@@ -208,7 +208,7 @@ all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
 
 # Build rule for subdir invocation for target.
 mesh/CMakeFiles/51_MBTLE_CORE.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 23
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 21
 	$(MAKE) -f CMakeFiles/Makefile2 mesh/CMakeFiles/51_MBTLE_CORE.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : mesh/CMakeFiles/51_MBTLE_CORE.dir/rule
@@ -233,7 +233,7 @@ clean: mesh/CMakeFiles/51_MBTLE_CORE.dir/clean
 mesh/CMakeFiles/51_MBTLE_CORE_lint.dir/all:
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_CORE_lint.dir/build.make mesh/CMakeFiles/51_MBTLE_CORE_lint.dir/depend
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_CORE_lint.dir/build.make mesh/CMakeFiles/51_MBTLE_CORE_lint.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  24
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  22
 	@echo "Built target 51_MBTLE_CORE_lint"
 .PHONY : mesh/CMakeFiles/51_MBTLE_CORE_lint.dir/all
 
@@ -264,7 +264,7 @@ clean: mesh/CMakeFiles/51_MBTLE_CORE_lint.dir/clean
 mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/all:
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/build.make mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/depend
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/build.make mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  25 26 27 28
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  23 24 25 26
 	@echo "Built target 51_MBTLE_PB_ADV_EE"
 .PHONY : mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/all
 
@@ -299,13 +299,13 @@ clean: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/clean
 mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/all:
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/build.make mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/depend
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/build.make mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  29
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 
 	@echo "Built target 51_MBTLE_PB_ADV_EE_lint"
 .PHONY : mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/all
 
 # Build rule for subdir invocation for target.
 mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/rule
@@ -330,7 +330,7 @@ clean: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE_lint.dir/clean
 mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/all:
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/build.make mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/depend
 	$(MAKE) -f mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/build.make mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  30 31 32 33
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  27 28 29 30
 	@echo "Built target 51_MBTLE_PB_ADV_ER"
 .PHONY : mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/all
 
@@ -402,7 +402,7 @@ mesh/CMakeFiles/MBTLE_CORE.dir/all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
 
 # Build rule for subdir invocation for target.
 mesh/CMakeFiles/MBTLE_CORE.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 23
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 21
 	$(MAKE) -f CMakeFiles/Makefile2 mesh/CMakeFiles/MBTLE_CORE.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : mesh/CMakeFiles/MBTLE_CORE.dir/rule
@@ -495,7 +495,7 @@ mesh/CMakeFiles/MBTLE_PB_ADV_EE_lint.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE
 
 # Build rule for subdir invocation for target.
 mesh/CMakeFiles/MBTLE_PB_ADV_EE_lint.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mesh/CMakeFiles/MBTLE_PB_ADV_EE_lint.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : mesh/CMakeFiles/MBTLE_PB_ADV_EE_lint.dir/rule
@@ -616,7 +616,7 @@ lib/rtt/preinstall:
 lib/rtt/CMakeFiles/51_RTT_LIB.dir/all:
 	$(MAKE) -f lib/rtt/CMakeFiles/51_RTT_LIB.dir/build.make lib/rtt/CMakeFiles/51_RTT_LIB.dir/depend
 	$(MAKE) -f lib/rtt/CMakeFiles/51_RTT_LIB.dir/build.make lib/rtt/CMakeFiles/51_RTT_LIB.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  34 35
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  31 32
 	@echo "Built target 51_RTT_LIB"
 .PHONY : lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
 
@@ -698,7 +698,7 @@ lib/micro-ecc/preinstall:
 lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all:
 	$(MAKE) -f lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/build.make lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/depend
 	$(MAKE) -f lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/build.make lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  36 37
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  33 34
 	@echo "Built target 51_UECC_LIB"
 .PHONY : lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
 
@@ -796,13 +796,13 @@ tools/serial_doc/preinstall:
 tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/all:
 	$(MAKE) -f tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/build.make tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/depend
 	$(MAKE) -f tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/build.make tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  99
 	@echo "Built target serial_doc_asciidoc"
 .PHONY : tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/all
 
 # Build rule for subdir invocation for target.
 tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/rule
@@ -827,13 +827,13 @@ clean: tools/serial_doc/CMakeFiles/serial_doc_asciidoc.dir/clean
 tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/all:
 	$(MAKE) -f tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/build.make tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/depend
 	$(MAKE) -f tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/build.make tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  99
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 
 	@echo "Built target serial_doc_markdown"
 .PHONY : tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/all
 
 # Build rule for subdir invocation for target.
 tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : tools/serial_doc/CMakeFiles/serial_doc_markdown.dir/rule
@@ -893,6 +893,7 @@ examples/all: examples/pb_remote_server/all
 examples/all: examples/pb_remote_client/all
 examples/all: examples/dfu/all
 examples/all: examples/light_control/all
+examples/all: examples/mijia_device/all
 .PHONY : examples/all
 
 # Convenience name for "clean" pass in the directory.
@@ -903,6 +904,7 @@ examples/clean: examples/pb_remote_server/clean
 examples/clean: examples/pb_remote_client/clean
 examples/clean: examples/dfu/clean
 examples/clean: examples/light_control/clean
+examples/clean: examples/mijia_device/clean
 .PHONY : examples/clean
 
 # Convenience name for "preinstall" pass in the directory.
@@ -913,6 +915,7 @@ examples/preinstall: examples/pb_remote_server/preinstall
 examples/preinstall: examples/pb_remote_client/preinstall
 examples/preinstall: examples/dfu/preinstall
 examples/preinstall: examples/light_control/preinstall
+examples/preinstall: examples/mijia_device/preinstall
 .PHONY : examples/preinstall
 
 #=============================================================================
@@ -965,12 +968,12 @@ examples/serial/preinstall:
 # Target rules for target examples/serial/CMakeFiles/51_serial.dir
 
 # All Build rule for target.
-examples/serial/CMakeFiles/51_serial.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
 examples/serial/CMakeFiles/51_serial.dir/all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
 examples/serial/CMakeFiles/51_serial.dir/all: lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
+examples/serial/CMakeFiles/51_serial.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
 	$(MAKE) -f examples/serial/CMakeFiles/51_serial.dir/build.make examples/serial/CMakeFiles/51_serial.dir/depend
 	$(MAKE) -f examples/serial/CMakeFiles/51_serial.dir/build.make examples/serial/CMakeFiles/51_serial.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97
 	@echo "Built target 51_serial"
 .PHONY : examples/serial/CMakeFiles/51_serial.dir/all
 
@@ -980,7 +983,7 @@ all: examples/serial/CMakeFiles/51_serial.dir/all
 
 # Build rule for subdir invocation for target.
 examples/serial/CMakeFiles/51_serial.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 44
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 41
 	$(MAKE) -f CMakeFiles/Makefile2 examples/serial/CMakeFiles/51_serial.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/serial/CMakeFiles/51_serial.dir/rule
@@ -1011,7 +1014,7 @@ examples/serial/CMakeFiles/f_51_serial.dir/all: examples/serial/CMakeFiles/51_se
 
 # Build rule for subdir invocation for target.
 examples/serial/CMakeFiles/f_51_serial.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 44
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 41
 	$(MAKE) -f CMakeFiles/Makefile2 examples/serial/CMakeFiles/f_51_serial.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/serial/CMakeFiles/f_51_serial.dir/rule
@@ -1053,7 +1056,7 @@ examples/beaconing/CMakeFiles/51_beaconing.dir/all: mesh/CMakeFiles/51_MBTLE_COR
 examples/beaconing/CMakeFiles/51_beaconing.dir/all: lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
 	$(MAKE) -f examples/beaconing/CMakeFiles/51_beaconing.dir/build.make examples/beaconing/CMakeFiles/51_beaconing.dir/depend
 	$(MAKE) -f examples/beaconing/CMakeFiles/51_beaconing.dir/build.make examples/beaconing/CMakeFiles/51_beaconing.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  38 39 40
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  35 36
 	@echo "Built target 51_beaconing"
 .PHONY : examples/beaconing/CMakeFiles/51_beaconing.dir/all
 
@@ -1063,7 +1066,7 @@ all: examples/beaconing/CMakeFiles/51_beaconing.dir/all
 
 # Build rule for subdir invocation for target.
 examples/beaconing/CMakeFiles/51_beaconing.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 28
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 25
 	$(MAKE) -f CMakeFiles/Makefile2 examples/beaconing/CMakeFiles/51_beaconing.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/beaconing/CMakeFiles/51_beaconing.dir/rule
@@ -1094,7 +1097,7 @@ examples/beaconing/CMakeFiles/f_51_beaconing.dir/all: examples/beaconing/CMakeFi
 
 # Build rule for subdir invocation for target.
 examples/beaconing/CMakeFiles/f_51_beaconing.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 28
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 25
 	$(MAKE) -f CMakeFiles/Makefile2 examples/beaconing/CMakeFiles/f_51_beaconing.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/beaconing/CMakeFiles/f_51_beaconing.dir/rule
@@ -1132,13 +1135,13 @@ examples/pb_remote_server/preinstall:
 # Target rules for target examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir
 
 # All Build rule for target.
-examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
 examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
-examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/all
 examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/all: lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
+examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
+examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/all
 	$(MAKE) -f examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/build.make examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/depend
 	$(MAKE) -f examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/build.make examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  76 77 78 79 80
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  78 79 80 81
 	@echo "Built target 51_pb_remote_server"
 .PHONY : examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/all
 
@@ -1148,7 +1151,7 @@ all: examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/all
 
 # Build rule for subdir invocation for target.
 examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 36
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 33
 	$(MAKE) -f CMakeFiles/Makefile2 examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/pb_remote_server/CMakeFiles/51_pb_remote_server.dir/rule
@@ -1179,7 +1182,7 @@ examples/pb_remote_server/CMakeFiles/f_51_pb_remote_server.dir/all: examples/pb_
 
 # Build rule for subdir invocation for target.
 examples/pb_remote_server/CMakeFiles/f_51_pb_remote_server.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 36
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 33
 	$(MAKE) -f CMakeFiles/Makefile2 examples/pb_remote_server/CMakeFiles/f_51_pb_remote_server.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/pb_remote_server/CMakeFiles/f_51_pb_remote_server.dir/rule
@@ -1217,13 +1220,13 @@ examples/pb_remote_client/preinstall:
 # Target rules for target examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir
 
 # All Build rule for target.
-examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
+examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/all
 examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
 examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/all: lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
-examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/all
+examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
 	$(MAKE) -f examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/build.make examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/depend
 	$(MAKE) -f examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/build.make examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  71 72 73 74 75
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  74 75 76 77
 	@echo "Built target 51_pb_remote_client"
 .PHONY : examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/all
 
@@ -1233,7 +1236,7 @@ all: examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/all
 
 # Build rule for subdir invocation for target.
 examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 36
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 33
 	$(MAKE) -f CMakeFiles/Makefile2 examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/pb_remote_client/CMakeFiles/51_pb_remote_client.dir/rule
@@ -1264,7 +1267,7 @@ examples/pb_remote_client/CMakeFiles/f_51_pb_remote_client.dir/all: examples/pb_
 
 # Build rule for subdir invocation for target.
 examples/pb_remote_client/CMakeFiles/f_51_pb_remote_client.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 36
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 33
 	$(MAKE) -f CMakeFiles/Makefile2 examples/pb_remote_client/CMakeFiles/f_51_pb_remote_client.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/pb_remote_client/CMakeFiles/f_51_pb_remote_client.dir/rule
@@ -1302,14 +1305,14 @@ examples/dfu/preinstall:
 # Target rules for target examples/dfu/CMakeFiles/51_dfu.dir
 
 # All Build rule for target.
-examples/dfu/CMakeFiles/51_dfu.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
-examples/dfu/CMakeFiles/51_dfu.dir/all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
-examples/dfu/CMakeFiles/51_dfu.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/all
-examples/dfu/CMakeFiles/51_dfu.dir/all: lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
 examples/dfu/CMakeFiles/51_dfu.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/all
+examples/dfu/CMakeFiles/51_dfu.dir/all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
+examples/dfu/CMakeFiles/51_dfu.dir/all: lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
+examples/dfu/CMakeFiles/51_dfu.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
+examples/dfu/CMakeFiles/51_dfu.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/all
 	$(MAKE) -f examples/dfu/CMakeFiles/51_dfu.dir/build.make examples/dfu/CMakeFiles/51_dfu.dir/depend
 	$(MAKE) -f examples/dfu/CMakeFiles/51_dfu.dir/build.make examples/dfu/CMakeFiles/51_dfu.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  41 42 43 44 45 46 47 48 49 50 51 52 53 54
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  37 38 39 40 41 42 43 44 45 46 47 48 49
 	@echo "Built target 51_dfu"
 .PHONY : examples/dfu/CMakeFiles/51_dfu.dir/all
 
@@ -1319,7 +1322,7 @@ all: examples/dfu/CMakeFiles/51_dfu.dir/all
 
 # Build rule for subdir invocation for target.
 examples/dfu/CMakeFiles/51_dfu.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 49
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 46
 	$(MAKE) -f CMakeFiles/Makefile2 examples/dfu/CMakeFiles/51_dfu.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/dfu/CMakeFiles/51_dfu.dir/rule
@@ -1350,7 +1353,7 @@ examples/dfu/CMakeFiles/f_51_dfu.dir/all: examples/dfu/CMakeFiles/51_dfu.dir/all
 
 # Build rule for subdir invocation for target.
 examples/dfu/CMakeFiles/f_51_dfu.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 49
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 46
 	$(MAKE) -f CMakeFiles/Makefile2 examples/dfu/CMakeFiles/f_51_dfu.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/dfu/CMakeFiles/f_51_dfu.dir/rule
@@ -1406,13 +1409,13 @@ examples/light_control/client/preinstall:
 # Target rules for target examples/light_control/client/CMakeFiles/51_light_control_client.dir
 
 # All Build rule for target.
-examples/light_control/client/CMakeFiles/51_light_control_client.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
+examples/light_control/client/CMakeFiles/51_light_control_client.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/all
 examples/light_control/client/CMakeFiles/51_light_control_client.dir/all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
 examples/light_control/client/CMakeFiles/51_light_control_client.dir/all: lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
-examples/light_control/client/CMakeFiles/51_light_control_client.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_ER.dir/all
+examples/light_control/client/CMakeFiles/51_light_control_client.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
 	$(MAKE) -f examples/light_control/client/CMakeFiles/51_light_control_client.dir/build.make examples/light_control/client/CMakeFiles/51_light_control_client.dir/depend
 	$(MAKE) -f examples/light_control/client/CMakeFiles/51_light_control_client.dir/build.make examples/light_control/client/CMakeFiles/51_light_control_client.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  55 56 57 58 59 60
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  50 51 52 53 54 55
 	@echo "Built target 51_light_control_client"
 .PHONY : examples/light_control/client/CMakeFiles/51_light_control_client.dir/all
 
@@ -1422,7 +1425,7 @@ all: examples/light_control/client/CMakeFiles/51_light_control_client.dir/all
 
 # Build rule for subdir invocation for target.
 examples/light_control/client/CMakeFiles/51_light_control_client.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 37
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 35
 	$(MAKE) -f CMakeFiles/Makefile2 examples/light_control/client/CMakeFiles/51_light_control_client.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/light_control/client/CMakeFiles/51_light_control_client.dir/rule
@@ -1453,7 +1456,7 @@ examples/light_control/client/CMakeFiles/f_51_light_control_client.dir/all: exam
 
 # Build rule for subdir invocation for target.
 examples/light_control/client/CMakeFiles/f_51_light_control_client.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 37
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 35
 	$(MAKE) -f CMakeFiles/Makefile2 examples/light_control/client/CMakeFiles/f_51_light_control_client.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/light_control/client/CMakeFiles/f_51_light_control_client.dir/rule
@@ -1491,13 +1494,13 @@ examples/light_control/server/preinstall:
 # Target rules for target examples/light_control/server/CMakeFiles/51_light_control_server.dir
 
 # All Build rule for target.
-examples/light_control/server/CMakeFiles/51_light_control_server.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
 examples/light_control/server/CMakeFiles/51_light_control_server.dir/all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
-examples/light_control/server/CMakeFiles/51_light_control_server.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/all
 examples/light_control/server/CMakeFiles/51_light_control_server.dir/all: lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
+examples/light_control/server/CMakeFiles/51_light_control_server.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
+examples/light_control/server/CMakeFiles/51_light_control_server.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/all
 	$(MAKE) -f examples/light_control/server/CMakeFiles/51_light_control_server.dir/build.make examples/light_control/server/CMakeFiles/51_light_control_server.dir/depend
 	$(MAKE) -f examples/light_control/server/CMakeFiles/51_light_control_server.dir/build.make examples/light_control/server/CMakeFiles/51_light_control_server.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  61 62 63 64 65 66 67 68 69 70
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  56 57 58 59 60 61 62 63 64
 	@echo "Built target 51_light_control_server"
 .PHONY : examples/light_control/server/CMakeFiles/51_light_control_server.dir/all
 
@@ -1507,7 +1510,7 @@ all: examples/light_control/server/CMakeFiles/51_light_control_server.dir/all
 
 # Build rule for subdir invocation for target.
 examples/light_control/server/CMakeFiles/51_light_control_server.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 41
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 38
 	$(MAKE) -f CMakeFiles/Makefile2 examples/light_control/server/CMakeFiles/51_light_control_server.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/light_control/server/CMakeFiles/51_light_control_server.dir/rule
@@ -1538,7 +1541,7 @@ examples/light_control/server/CMakeFiles/f_51_light_control_server.dir/all: exam
 
 # Build rule for subdir invocation for target.
 examples/light_control/server/CMakeFiles/f_51_light_control_server.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 41
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 38
 	$(MAKE) -f CMakeFiles/Makefile2 examples/light_control/server/CMakeFiles/f_51_light_control_server.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
 .PHONY : examples/light_control/server/CMakeFiles/f_51_light_control_server.dir/rule
@@ -1554,6 +1557,91 @@ examples/light_control/server/CMakeFiles/f_51_light_control_server.dir/clean:
 
 # clean rule for target.
 clean: examples/light_control/server/CMakeFiles/f_51_light_control_server.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory examples/mijia_device
+
+# Convenience name for "all" pass in the directory.
+examples/mijia_device/all: examples/mijia_device/CMakeFiles/51_mijia_device.dir/all
+.PHONY : examples/mijia_device/all
+
+# Convenience name for "clean" pass in the directory.
+examples/mijia_device/clean: examples/mijia_device/CMakeFiles/51_mijia_device.dir/clean
+examples/mijia_device/clean: examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/clean
+.PHONY : examples/mijia_device/clean
+
+# Convenience name for "preinstall" pass in the directory.
+examples/mijia_device/preinstall:
+.PHONY : examples/mijia_device/preinstall
+
+#=============================================================================
+# Target rules for target examples/mijia_device/CMakeFiles/51_mijia_device.dir
+
+# All Build rule for target.
+examples/mijia_device/CMakeFiles/51_mijia_device.dir/all: mesh/CMakeFiles/51_MBTLE_CORE.dir/all
+examples/mijia_device/CMakeFiles/51_mijia_device.dir/all: lib/rtt/CMakeFiles/51_RTT_LIB.dir/all
+examples/mijia_device/CMakeFiles/51_mijia_device.dir/all: lib/micro-ecc/CMakeFiles/51_UECC_LIB.dir/all
+examples/mijia_device/CMakeFiles/51_mijia_device.dir/all: mesh/CMakeFiles/51_MBTLE_PB_ADV_EE.dir/all
+	$(MAKE) -f examples/mijia_device/CMakeFiles/51_mijia_device.dir/build.make examples/mijia_device/CMakeFiles/51_mijia_device.dir/depend
+	$(MAKE) -f examples/mijia_device/CMakeFiles/51_mijia_device.dir/build.make examples/mijia_device/CMakeFiles/51_mijia_device.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles  65 66 67 68 69 70 71 72 73
+	@echo "Built target 51_mijia_device"
+.PHONY : examples/mijia_device/CMakeFiles/51_mijia_device.dir/all
+
+# Include target in all.
+all: examples/mijia_device/CMakeFiles/51_mijia_device.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+examples/mijia_device/CMakeFiles/51_mijia_device.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 38
+	$(MAKE) -f CMakeFiles/Makefile2 examples/mijia_device/CMakeFiles/51_mijia_device.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
+.PHONY : examples/mijia_device/CMakeFiles/51_mijia_device.dir/rule
+
+# Convenience name for target.
+51_mijia_device: examples/mijia_device/CMakeFiles/51_mijia_device.dir/rule
+.PHONY : 51_mijia_device
+
+# clean rule for target.
+examples/mijia_device/CMakeFiles/51_mijia_device.dir/clean:
+	$(MAKE) -f examples/mijia_device/CMakeFiles/51_mijia_device.dir/build.make examples/mijia_device/CMakeFiles/51_mijia_device.dir/clean
+.PHONY : examples/mijia_device/CMakeFiles/51_mijia_device.dir/clean
+
+# clean rule for target.
+clean: examples/mijia_device/CMakeFiles/51_mijia_device.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target examples/mijia_device/CMakeFiles/f_51_mijia_device.dir
+
+# All Build rule for target.
+examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/all: examples/mijia_device/CMakeFiles/51_mijia_device.dir/all
+	$(MAKE) -f examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/build.make examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/depend
+	$(MAKE) -f examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/build.make examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 
+	@echo "Built target f_51_mijia_device"
+.PHONY : examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/all
+
+# Build rule for subdir invocation for target.
+examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 38
+	$(MAKE) -f CMakeFiles/Makefile2 examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/sf_Share/nrf5_SDK_for_Mesh_v0.9.2-Alpha/build/CMakeFiles 0
+.PHONY : examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/rule
+
+# Convenience name for target.
+f_51_mijia_device: examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/rule
+.PHONY : f_51_mijia_device
+
+# clean rule for target.
+examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/clean:
+	$(MAKE) -f examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/build.make examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/clean
+.PHONY : examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/clean
+
+# clean rule for target.
+clean: examples/mijia_device/CMakeFiles/f_51_mijia_device.dir/clean
 .PHONY : clean
 
 #=============================================================================
