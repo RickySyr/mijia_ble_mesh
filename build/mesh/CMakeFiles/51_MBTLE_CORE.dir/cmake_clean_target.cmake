@@ -1,3 +1,0 @@
-file(REMOVE_RECURSE
-  "lib_51_MBTLE_CORE.a"
-)

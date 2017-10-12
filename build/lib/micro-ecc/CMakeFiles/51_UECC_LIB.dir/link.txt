@@ -1,2 +1,0 @@
-/usr/bin/arm-none-eabi-ar cq lib_51_UECC_LIB.a  CMakeFiles/51_UECC_LIB.dir/uECC.c.obj CMakeFiles/51_UECC_LIB.dir/__/__/toolchain/gcc/gcc_startup_nrf51.S.obj CMakeFiles/51_UECC_LIB.dir/__/__/toolchain/system_nrf51.c.obj
-/usr/bin/arm-none-eabi-ranlib lib_51_UECC_LIB.a
